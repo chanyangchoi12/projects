@@ -1,0 +1,187 @@
+@media (max-width:767px){
+	.a{
+	text-align: center;
+		h1{
+		padding-left: 0px;
+		padding-right: 0px;
+		}
+		p{
+		float: none;
+		margin-top: 0px;
+		text-align: center;
+		}
+	}
+	.aa{
+	padding-left: 0px;
+	text-align: center;
+	}
+	.aaa{
+	padding-left: 0px;
+	text-align: center;
+	}
+	.aaaa{
+	padding-left: 0px;
+	text-align: center;
+	}
+	.a1{
+	padding-left: 0px;
+	margin-left: 0px;
+	}
+	.last{
+	text-align: center;
+	}
+}
+@media (max-width:1025px) {
+	.a{
+	text-align: center;
+		h1{
+		padding-left: 0px;
+		padding-right: 0px;
+		}
+		p{
+		float: none;
+		margin-top: 0px;
+		text-align: center;
+		}
+	}
+	.aa{
+	padding-top: 15px;
+	padding-left: 0px;
+	text-align: center;
+	}
+	.aaa{
+	padding-left: 0px;
+	text-align: center;
+	}
+	.aaaa{
+	padding-left: 0px;
+	text-align: center;
+	}
+	.a1{
+	margin-left: 0px;
+	}
+	.a11{
+	margin-left: 0px;
+	text-align: center;
+	}
+	.a2{
+	width: 100%;
+	text-align: center;
+	}
+	.a3{
+	width: 100%;
+	text-align: center;
+	}
+	.last{
+	text-align: center;
+	}
+}
+
+
+body{
+	margin: 50px;
+	border:2px solid;
+	border-radius: 12px;
+	.a{
+	margin-botom: 0px;
+	border-bottom-style: solid;
+		h1{
+		padding-left: 20px;
+		padding-right: 10px;
+		display:inline;
+		}
+		p{
+		margin-top: 1em;
+		margin-left: 0px;
+		margin-bottom: 0px;
+		margin-right: 0px;
+		display:inline;
+		float:right;
+		padding-right:20px;
+		}
+	}
+	.aa{
+	padding-left: 20px;
+	margin-top: 0px;
+		p{
+		margin-top: 0px;
+		}
+	}
+	.aaa{
+	padding-left: 40px;
+		h1{
+		margin-bottom: 0px;
+		text-decoration: underline;
+		}
+		p{
+		margin:0px;
+		}
+		ul{
+		margin-top: 0px;
+			li{
+			font-style: italic;
+			}
+		}
+	}
+	.aaaa{
+	padding-left: 40px;
+		h1{
+		margin-bottom: 0px;
+		text-decoration: underline;
+		}
+		p{
+		margin: 0px;
+		}
+	}
+	.a1{
+
+		h1{
+		margin-bottom: 0px;
+		padding-left: 40px;
+		text-decoration: underline;
+		}
+		.a2{	
+		width: 50%;
+		height: 100%;
+		display: inline-block;
+			h2{
+			margin-top: 0px;
+			margin-bottom: 0px;
+			padding-left: 40px;
+			}
+			ul{
+			padding-left: 70px;
+			margin: 0px;
+			}
+		}
+		.a3{
+		width: 50%;
+		height: 100%;
+		display: inline;
+		float: right;
+		margin: 0px;
+			h2{
+			margin-top: 0px;
+			margin-bottom: 0px;
+			padding-left: 10px;
+			}
+			ul{
+			margin: 0px;
+			padding-left: 40px;
+			}
+		}
+	}
+	.last{
+	padding-left: 40px;
+	padding-right: 40px;
+		h2{
+		margin-top: 30px;
+		margin-bottom: 0px;
+		text-decoration: underline;
+		}
+		p{
+		margin-top: 0px;
+
+		}
+	}
+}

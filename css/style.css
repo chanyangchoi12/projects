@@ -1,0 +1,151 @@
+@media (max-width: 767px) {
+  .a {
+    text-align: center; }
+    .a h1 {
+      padding-left: 0px;
+      padding-right: 0px; }
+    .a p {
+      float: none;
+      margin-top: 0px;
+      text-align: center; }
+
+  .aa {
+    padding-left: 0px;
+    text-align: center; }
+
+  .aaa {
+    padding-left: 0px;
+    text-align: center; }
+
+  .aaaa {
+    padding-left: 0px;
+    text-align: center; }
+
+  .a1 {
+    padding-left: 0px;
+    margin-left: 0px; }
+
+  .last {
+    text-align: center; } }
+@media (max-width: 1025px) {
+  .a {
+    text-align: center; }
+    .a h1 {
+      padding-left: 0px;
+      padding-right: 0px; }
+    .a p {
+      float: none;
+      margin-top: 0px;
+      text-align: center; }
+
+  .aa {
+    padding-top: 15px;
+    padding-left: 0px;
+    text-align: center; }
+
+  .aaa {
+    padding-left: 0px;
+    text-align: center; }
+
+  .aaaa {
+    padding-left: 0px;
+    text-align: center; }
+
+  .a1 {
+    margin-left: 0px; }
+
+  .a11 {
+    margin-left: 0px;
+    text-align: center; }
+
+  .a2 {
+    width: 100%;
+    text-align: center; }
+
+  .a3 {
+    width: 100%;
+    text-align: center; }
+
+  .last {
+    text-align: center; } }
+body {
+  margin: 50px;
+  border: 2px solid;
+  border-radius: 12px; }
+  body .a {
+    margin-botom: 0px;
+    border-bottom-style: solid; }
+    body .a h1 {
+      padding-left: 20px;
+      padding-right: 10px;
+      display: inline; }
+    body .a p {
+      margin-top: 1em;
+      margin-left: 0px;
+      margin-bottom: 0px;
+      margin-right: 0px;
+      display: inline;
+      float: right;
+      padding-right: 20px; }
+  body .aa {
+    padding-left: 20px;
+    margin-top: 0px; }
+    body .aa p {
+      margin-top: 0px; }
+  body .aaa {
+    padding-left: 40px; }
+    body .aaa h1 {
+      margin-bottom: 0px;
+      text-decoration: underline; }
+    body .aaa p {
+      margin: 0px; }
+    body .aaa ul {
+      margin-top: 0px; }
+      body .aaa ul li {
+        font-style: italic; }
+  body .aaaa {
+    padding-left: 40px; }
+    body .aaaa h1 {
+      margin-bottom: 0px;
+      text-decoration: underline; }
+    body .aaaa p {
+      margin: 0px; }
+  body .a1 h1 {
+    margin-bottom: 0px;
+    padding-left: 40px;
+    text-decoration: underline; }
+  body .a1 .a2 {
+    width: 50%;
+    height: 100%;
+    display: inline-block; }
+    body .a1 .a2 h2 {
+      margin-top: 0px;
+      margin-bottom: 0px;
+      padding-left: 40px; }
+    body .a1 .a2 ul {
+      padding-left: 70px;
+      margin: 0px; }
+  body .a1 .a3 {
+    width: 50%;
+    height: 100%;
+    display: inline;
+    float: right;
+    margin: 0px; }
+    body .a1 .a3 h2 {
+      margin-top: 0px;
+      margin-bottom: 0px;
+      padding-left: 10px; }
+    body .a1 .a3 ul {
+      margin: 0px;
+      padding-left: 40px; }
+  body .last {
+    padding-left: 40px;
+    padding-right: 40px; }
+    body .last h2 {
+      margin-top: 30px;
+      margin-bottom: 0px;
+      text-decoration: underline; }
+    body .last p {
+      margin-top: 0px; }
+
+/*# sourceMappingURL=style.css.map */
